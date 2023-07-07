@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Ghi Chú về dự án movie:
+
+1. Các thư mục được tạo:
+
+- Components
+- pages
+- redux
+- service: chứa các logic liên quan đến API
+- util: nơi chứa các hàm, các logic hổ trợ.
+- assets: chứa các file hổ trợ như img, data, json,....
+- homtemplate
+  ------//-----
+
+2. Các thư viện cần cài đặt.
+
+- react-router-dom
+- thư viện axios
+- thư viện redux: redux toolkit.
+- antd (lên web đánh vào tìm): npm install antd --save
+- tailwindcss: npm install -D tailwindcss. npx tailwindcss init
+  -sass sassloader
