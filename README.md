@@ -90,3 +90,7 @@ Ghi Chú về dự án movie:
 - antd (lên web đánh vào tìm): npm install antd --save
 - tailwindcss: npm install -D tailwindcss. npx tailwindcss init
   -sass sassloader
+- react-lotti
+- moment
+
+Link để lấy api : https://movienew.cybersoft.edu.vn/swagger/index.html?fbclid=IwAR0QkNYCziF_I4lN5S6GLAdAzTeqgtV1d7jeupcay60KdldUbJ9du_vkem4
